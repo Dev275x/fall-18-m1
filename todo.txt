@@ -3,3 +3,5 @@ Get Milk
 Eat Breakfast
 Coding Session
 Call dentist
+Test & Commit
+Movie Night!
