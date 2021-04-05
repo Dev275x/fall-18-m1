@@ -33,6 +33,7 @@ danielmundim
 rperalta2
 barrisen
 Xrathk
+Stdent-dev
 alwee021
 jackho93
 Martin-Wanangwa-Nyirenda
@@ -61,3 +62,4 @@ Will-Kerwin
 MostafaRadfar
 colettek
 thejbix
+Stdent-dev
